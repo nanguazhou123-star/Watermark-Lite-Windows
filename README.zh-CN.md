@@ -46,5 +46,8 @@ itch.io ZIP 面向 **Windows 10/11 x64**。下载后将**整个 ZIP 全部解压
 - [中文完整教程](https://telegra.ph/Windows-批量加水印给客户样图添加-Logo-和文字-10-23)
 - [英文操作教程](https://heykim.itch.io/watermark-lite/devlog/1724491/how-to-add-a-logo-and-text-to-product-photo-previews-on-windows)
 - [英文客户样图检查清单](https://medium.com/@nanguazhou123/a-windows-checklist-for-adding-a-logo-and-text-to-client-photo-previews-d880ff0b9cbf)
+- [英文实测教程：重复 PREVIEW ONLY 水印](https://heykim.itch.io/watermark-lite/devlog/1726171/how-to-add-a-repeating-preview-only-watermark-to-client-photos-on-windows)
+- [中文教程：重复 PREVIEW ONLY 水印](PREVIEW-ONLY.zh-CN.md)
 
 这些内容为开发者自述，并非独立评测。文档由 Codex（OpenAI）辅助整理并按产品资料核对。
+
