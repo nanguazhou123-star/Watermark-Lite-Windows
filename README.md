@@ -58,9 +58,12 @@ English is the default for this itch.io ZIP. Open **Settings** to select English
 - [English illustrated workflow: logo and text on product-photo previews](https://heykim.itch.io/watermark-lite/devlog/1724491/how-to-add-a-logo-and-text-to-product-photo-previews-on-windows)
 - [English checklist for client photo previews](https://medium.com/@nanguazhou123/a-windows-checklist-for-adding-a-logo-and-text-to-client-photo-previews-d880ff0b9cbf)
 - [中文图文教程：Windows 批量加水印](https://telegra.ph/Windows-批量加水印给客户样图添加-Logo-和文字-10-23)
+- [English illustrated workflow: repeating PREVIEW ONLY watermarks on client photos](https://heykim.itch.io/watermark-lite/devlog/1726171/how-to-add-a-repeating-preview-only-watermark-to-client-photos-on-windows)
+- [中文教程：重复 PREVIEW ONLY 水印](PREVIEW-ONLY.zh-CN.md)
 
 These are developer-authored guides, not independent reviews. Documentation was prepared with Codex (OpenAI) assistance and checked against product information.
 
 ## 中文概述
 
 轻水印用于在 Windows 本地给静态图片添加文字和 Logo，提供 16 个内置模板、预览和批量导出。这里是付费闭源应用的公开文档与反馈仓库。itch.io ZIP 须全部解压后运行 `WatermarkLite.exe`，默认英文，可在 Settings 切换简体中文。完整步骤、限制和购买说明见[中文指南](README.zh-CN.md)。
+
