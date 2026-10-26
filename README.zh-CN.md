@@ -11,7 +11,9 @@
 
 两个渠道分别购买，一个渠道的购买不包含另一个渠道的购买权益。设备数、团队使用与未来升级范围以购买渠道的明确说明为准；本指南不增加授权条款。
 
-itch.io ZIP 面向 **Windows 10/11 x64**。下载后将**整个 ZIP 全部解压**到文件夹，在解压后的目录运行 `WatermarkLite.exe`，保留同目录支持文件和子目录。不要只复制 EXE，也不要直接在压缩包中启动。此 ZIP 默认英文，可在 **Settings** 选择 **Simplified Chinese**；也可选择 English。
+itch.io 付费完整 ZIP **2.0.0** 面向 **Windows 10/11 x64**。下载后将**整个 ZIP 全部解压**到文件夹，在解压后的目录运行 `WatermarkLite.exe`，保留同目录支持文件和子目录。不要只复制 EXE，也不要直接在压缩包中启动。此付费完整 ZIP 默认英文，可在 **Settings** 选择 **Simplified Chinese**；也可选择 English。
+
+独立 itch.io 试用包 **2.0.3** 同样须全部解压，从解压后的目录运行 `WatermarkLite-Demo.exe`，保留同目录支持文件。试用包首次使用跟随系统语言，可在 **Settings** 选择 English 或 Simplified Chinese。
 
 ## 试用与完整包
 
