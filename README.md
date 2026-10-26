@@ -39,11 +39,13 @@ Image processing takes place on your computer, without cloud image uploads, an a
 
 *Actual application interface with an AI-generated demonstration product photograph. Logo and brand text are placeholders. This illustrates placement, rather than a customer endorsement or a timed performance test.*
 
-## Install the portable ZIP
+## Install the itch.io ZIP packages
 
-The itch.io ZIP targets **Windows 10/11, x64**. Download it from the official product page, extract the **complete ZIP** into a folder, then run `WatermarkLite.exe` from that extracted folder. Keep the supporting files and subfolders together; do not move only the EXE or launch it inside the compressed archive.
+The paid itch.io full ZIP **2.0.0** targets **Windows 10/11, x64**. Download it from the official product page, extract the **complete ZIP** into a folder, then run `WatermarkLite.exe` from that extracted folder. Keep the supporting files and subfolders together; do not move only the EXE or launch it inside the compressed archive.
 
-English is the default for this itch.io ZIP. Open **Settings** to select English or Simplified Chinese. The ZIP instructions and default-language description here refer to that distribution.
+English is the default for this paid full ZIP. Open **Settings** to select English or Simplified Chinese.
+
+The separate itch.io trial **2.0.3** must also be fully extracted. Run `WatermarkLite-Demo.exe` from its extracted folder, keeping its supporting files together. On first use, this trial follows the system language; use **Settings** to choose English or Simplified Chinese.
 
 ## First workflow
 
@@ -77,5 +79,5 @@ These are developer-authored guides, not independent reviews. Documentation was 
 
 ## 中文概述
 
-轻水印用于在 Windows 本地给静态图片添加文字和 Logo，提供 16 个内置模板、预览和批量导出。这里是付费闭源应用的公开文档与反馈仓库。itch.io ZIP 须全部解压后运行 `WatermarkLite.exe`，默认英文，可在 Settings 切换简体中文。完整步骤、限制和购买说明见[中文指南](README.zh-CN.md)。
+轻水印用于在 Windows 本地给静态图片添加文字和 Logo，提供 16 个内置模板、预览和批量导出。这里是付费闭源应用的公开文档与反馈仓库。itch.io 付费完整 ZIP 2.0.0 须全部解压后运行 `WatermarkLite.exe`，默认英文；独立试用包 2.0.3 须全部解压后运行 `WatermarkLite-Demo.exe`，首次使用跟随系统语言。两者均可在 Settings 切换语言。完整步骤、限制和购买说明见[中文指南](README.zh-CN.md)。
 
