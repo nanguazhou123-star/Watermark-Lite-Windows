@@ -13,6 +13,18 @@ Developed by **HeyKim**. Microsoft Store publisher: **DaMiZhou Studio**. This re
 
 The two purchase channels are separate. Buying through one does not grant the other channel's purchase. Refer to the selected product page for the current offer.
 
+## Trial and paid editions
+
+[Download the free 24-hour Windows trial](https://heykim.itch.io/watermark-lite#demo) to check your own images. The separate itch.io trial allows up to 3 workspace images at once, adds no extra Demo mark to exports during the trial, and keeps counting while the app is closed. After expiry, editing and preview remain available; new exports require the separately purchased full ZIP.
+
+| Edition | Published package as of 26 October 2026 | Trial |
+| --- | --- | --- |
+| itch.io free trial | 2.0.3 | 24 hours from first launch; up to 3 images at once |
+| itch.io paid full ZIP | 2.0.0 | No trial expiry in the full package |
+| Microsoft Store | 2.0.2.0 | Separate 1-day Microsoft trial; the itch.io 3-image cap does not apply |
+
+These version numbers track separate distributions and release/licensing revisions; they do not establish feature parity, missing functionality or future upgrade rights. [Compare trial and paid editions](TRIAL-VS-FULL.md) · [中文版本对照](TRIAL-VS-FULL.zh-CN.md).
+
 ## What it does
 
 - Choose from **16 built-in templates**, including text, corner logos, combined logo-and-text layouts and repeating text.
@@ -43,7 +55,7 @@ English is the default for this itch.io ZIP. Open **Settings** to select English
 
 ## FAQ
 
-**How large can a batch be?** Folder and drag-and-drop imports are capped at **1,000 images per import**. This is an import limit, not a whole-queue limit or a promise that every computer can process 1,000 images reliably. Practical batch size and processing time depend on image dimensions, formats and available resources.
+**How large can a batch be?** In the paid full edition, folder and drag-and-drop imports are capped at **1,000 images per import**. This is an import limit, not a whole-queue limit or a promise that every computer can process 1,000 images reliably. Practical batch size and processing time depend on image dimensions, formats and available resources.
 
 **Does it preserve GIF animation?** No. The app processes still images; GIF export contains a single static frame.
 
